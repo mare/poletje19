@@ -3,19 +3,18 @@ layout: default
 permalink: /
 ---
 
-# PR Pubs :: Poletje 2019
+# PREDMET :: Eizobraževanje 2019
 This is the course resource site for PR Publications, a course at the University of Oklahoma, taught in the Gaylord College of Journalism and Mass Communications.
 
-**Instructor**
+**Učitelj**
 
 Adam Croom<br>
 **Location**: Old Science Hall, Room 224<br>
-**Phone**: (405) 325-2960<br>
+**Telefon**: (405) 325-2960<br>
 **E-mail**: a.croom (d0t) ou.edu<br>
-**Twitter**: <a href="http://twitter.com/acroom" target="blank">@acroom</a><br>
-**Office hours**: Please email me if you would like to meet either face-to-face or online!
+**Govorilne ure**: Please email me if you would like to meet either face-to-face or online!
 
-## Syllabus
+## Učni načrt
 
 Below is the formal syllabus explaining what the course exactly is but these tend to get a little jargony at times which won't be incredibly helpful if there is your first introduction into the course. The short of it is this: This course is _outcomes_ centric and thus you will learn by _doing_. While the first part of the course is focused on understanding design techniques and terminology and is a little more content driven, we will be simply applying this foundational knowledge through different use cases throughout the rest of the semester. The real work are the assignments in which you'll be creating tangible publication pieces. You'll then be putting these works onto your blog where you'll be expected to reflect on your work and give a narrative for your creative process. In the end, you'll have a robust portfolio (so to speak) which won't only be a collection of your final work which potential employers can see, but a collection of your thoughts, struggles, and victories throughout this 8-week experience. In essence, you'll be donning a potentially new hat of "Visual Designer" throughout this exploration. You'll also be a "Digital Storyteller." Terms like "digital," "visual," or "creative" can seem a little scary to some, but that's ok right now. Like a good ride at a theme park, a little bit of nervousness makes the ride much more memorable on the back end. Note that most of you are coming in at the same level: novice. This means you all are your biggest allies. I _want _you to be successful in this course and to do this you will see that I've set up ways in which you can lean on and learn from each other's experiences throughout the course.
 
