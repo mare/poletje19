@@ -3,8 +3,8 @@ layout: default
 permalink: /
 ---
 
-# PREDMET :: Eizobraževanje 2019
-This is the course resource site for PR Publications, a course at the University of Oklahoma, taught in the Gaylord College of Journalism and Mass Communications.
+# PREDMET:: TESTNI PREDMET 2019
+To je testni predmet. This is the course resource site for PR Publications, a course at the University of Oklahoma, taught in the Gaylord College of Journalism and Mass Communications.
 
 **Učitelj**
 
